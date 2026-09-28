@@ -1,16 +1,63 @@
-## Hi there 👋
+# Alexeenko Artem | FullStack Engineer
 
-<!--
-**mkdir-s/mkdir-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & DevOps engineer focused on building web-applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+
+[![Telegram](https://img.shields.io/badge/Telegram-gray?style=flat-square&logo=telegram)](https://t.me/alexeenko)
+[![CV]](https://docs.google.com/document/d/1UdNvDpQoWh7_B6yRV3yRiuJFRei45MvmbjIB_S5KIlE/edit?usp=sharing)
+
+---
+
+## 🧠 Core Stack
+
+### Languages
+
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)](https://github.com/mkdir-s)
+
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB)
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
+
+![NestJS](https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs&logoColor=E0234E)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]()
+[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)]()
+[![Compose](https://img.shields.io/badge/Compose-black?style=for-the-badge&logo=docker)]()
+
+[![Linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=Linux)](https://github.com/pieceowater)
+[![macOS](https://img.shields.io/badge/macos-black?style=flat-square&logo=Apple)](https://github.com/pieceowater)
+
+---
+
+### Backend
+
+[![GraphQL](https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql)]()
+[![REST](https://img.shields.io/badge/REST-black?style=for-the-badge)]()
+
+- Clean Architecture  
+- Microservices  
+- Concurrency & async processing  
+
+---
+
+## 🚀 What I Do
+
+- Design backend and frontend architectures from scratch  
+- Implement monitoring & incident workflows  
+- Think in systems, not just endpoints  
+
+---
+
+## 🏗 Career
+
+- Started as a junior wordpress developer  
+- Scaled to FullStack (Frontend / Backend)  
+- Architected production services  
+
+
+
