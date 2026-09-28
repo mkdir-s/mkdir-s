@@ -12,19 +12,47 @@ Backend & DevOps engineer focused on building web-applications.
 ---
 
 ## 🧠 Core Stack
+### Languages & Core
 
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)](https://github.com/mkdir-s)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+
+### Frontend
+
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-black?style=flat-square&logo=redux)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=flat-square&logo=shadcnui)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react&logoColor=61DAFB)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express)
 ![NestJS](https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs&logoColor=E0234E)
+
+### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=4169E1)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]()
-[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)]()
-[![Compose](https://img.shields.io/badge/Compose-black?style=for-the-badge&logo=docker)]()
-[![GraphQL](https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql)]()
-[![REST](https://img.shields.io/badge/REST-black?style=for-the-badge)]()
-[![Linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=Linux)](https://github.com/pieceowater)
-[![macOS](https://img.shields.io/badge/macos-black?style=flat-square&logo=Apple)](https://github.com/pieceowater)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+
+### APIs
+
+![REST](https://img.shields.io/badge/REST-black?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql)
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes)
 
 ---
 
