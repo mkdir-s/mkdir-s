@@ -1,4 +1,4 @@
-# Alexeenko Artem | Full-Stack Engineer
+# Alexeenko Artem | Full-Stack Developer
 
 Full-stack engineer focused on backend architecture, infrastructure, and production web applications.
 
